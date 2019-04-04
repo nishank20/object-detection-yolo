@@ -9,8 +9,9 @@
 
 Provided all the files are in the current directory and web cam is important, below command will apply object detection on the video.
  
- `$ python yolo_opencv.py --image dog.jpg --config yolov3.cfg --weights yolov3.weights --classes yolov3.txt`
+ `$ python yolo_opencv_practice.py
  
+ download yolov3 weights from this link 'https://drive.google.com/drive/folders/1-kyTfGxxPSzebP81jWSEH3PSXB3thcgV?usp=sharing'
  
  ### sample output :
  ![](object-detection.jpg)
